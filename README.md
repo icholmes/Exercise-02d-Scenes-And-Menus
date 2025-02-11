@@ -1,22 +1,18 @@
-# Exercise-02d-Scenes-And-Menus
+# Project02-SpaceShooter
 
-Exercise for MSCH-C220
-
-A basic space-shooter arcade game, created in Unity.
-
+# Project 02: Arcade Space Shooter
+Context and date
+Description
 ## Implementation
-
-Created using [Unity 2022.3.45f](https://unity.com)
-
-Assets are provided by [Kenney.nl](https://kenney.nl/assets/space-shooter-extension), provided under a [CC0 1.0 Public Domain License](https://creativecommons.org/publicdomain/zero/1.0/).
-
-The explosion spritesheet was released into the public domain by [StumpyStrust](https://opengameart.org/content/explosion-sheet)
-
+- I have all base requirements
+- I added different assets (+1)
+- I added a background (+1)
+- I added music + sounds (+2)
+- I added a shield (+1)
+- I added another kind of enemy (+1)
 ## References
-None
-
+Assets by @JanaChumi on OpenGameArt.com 
 ## Future Development
-Advanced features?
-
+N/A
 ## Created by
 Izzy Holmes
