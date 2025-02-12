@@ -8,7 +8,6 @@ Description
 - I added different assets (+1)
 - I added a background (+1)
 - I added music + sounds (+2)
-- I added a shield (+1)
 - I added another kind of enemy (+1)
 ## References
 Assets by @JanaChumi on OpenGameArt.com 
