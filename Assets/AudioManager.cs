@@ -11,6 +11,11 @@ public class AudioManager : MonoBehaviour
     public AudioClip shooting;
     public AudioClip explosion;
 
+    private void Awake()
+    {
+        DontDestroyOnLoad(gameObject);
+    }
+
     private void Start()
     {
         musicSource.clip = background;
