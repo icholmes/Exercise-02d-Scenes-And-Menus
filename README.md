@@ -1,8 +1,9 @@
 # Project02-SpaceShooter
 
 # Project 02: Arcade Space Shooter
-Context and date
-Description
+02/11/24
+
+Galaxy Blitz: A user-controlled a space-shooter game. Battle enemies and shoot asteroids to protect your galaxy!
 ## Implementation
 - I have all base requirements
 - I added different assets (+1)
