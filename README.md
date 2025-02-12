@@ -15,7 +15,9 @@ Created using Unity 2022.3.45f
 
 Assets by @JanaChumi on OpenGameArt.com and Kenney.nl, provided under a CC0 1.0 Public Domain License.
 
-The explosion spritesheet was released into the public domain by StumpyStrust.
+Explosion spritesheet was released into the public domain by StumpyStrust.
+
+Music by Oblidivm on http://oblidivmmusic.blogspot.com.es/.
 ## Future Development
 N/A
 ## Created by
